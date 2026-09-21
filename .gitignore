@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+*.token
+*.log
+*.pid
+test-results/
+test-failure.png
+.sandbox/
+
+start-4322.sh
+*.err
